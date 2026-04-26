@@ -29,8 +29,8 @@ I'm a **Full-Stack AI Engineer** and **Data Scientist** passionate about buildin
 ---
 
 ### 📫 How to reach me
-- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-sharma-6a0b2b1b0/) <!-- Replace with actual if known, or leave placeholder -->
-- 📧 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-gurjar-b51043205/) <!-- Replace with actual if known, or leave placeholder -->
+- 📧 [Email](mailto:abhisheksarjaliya@gmail.com)
 
 ---
 
