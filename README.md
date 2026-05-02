@@ -1,64 +1,67 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Abhishek%20Gurjar&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descAlign=50" alt="Header" />
-</div>
+# 👋 I'm Abhishek (Abhi21sar)
+### **AI Engineer & Systems Architect**
+> *Architecting autonomous agents, securing Indic LLMs, and building immersive real-time systems.*
 
-<h3 align="center">Turning complex data into actionable AI intelligence.</h3>
-
-<br />
-
-### 🚀 About Me
-
-I'm a **Full-Stack AI Engineer** and **Data Scientist** with a passion for building intelligent systems that can see, hear, and think. I specialize in bridging the gap between raw data and agentic AI workflows.
-
-- 🔭 I’m currently working on **Multi-Modal RAG Systems** and advanced **AI Agents**.
-- 🌱 I’m currently learning about **Deep Learning scaling laws** and **Agentic Orchestration**.
-- 🏆 **Amex DS Campus Challenge Winner 2024**
-- 🤝 I’m looking to collaborate on **open-source AI tools** and **AI workflow automation**.
-- 📫 How to reach me: **[abhisheksarjaliya@gmail.com](mailto:abhisheksarjaliya@gmail.com)**
-
----
-
-### 💻 Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,mysql,docker,fastapi,git,github,linux,aws&perline=9" />
-  </a>
-</p>
-
-**AI & Data Science Specialty:**
 <p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-LLM%20Security-red?style=for-the-badge&logo=anchor" />
+  <img src="https://img.shields.io/badge/Expertise-Multilingual%20NLP-blue?style=for-the-badge&logo=google-translate" />
+  <img src="https://img.shields.io/badge/Specialty-Autonomous%20Agents-green?style=for-the-badge&logo=openai" />
 </p>
 
 ---
 
-### 🌟 Featured Projects
-
-| 🤖 Project | 📝 Description | 🔗 Link |
-|:---|:---|:---|
-| **Multi-Modal RAG System** | Production-ready RAG capable of retrieving info from images, text, and tables. | [View Repository](https://github.com/Abhi21sar/Multi-Modal-RAG-System) |
-| **Financial AI Assistant** | Autonomous LangGraph agents with async market data ingestion and voice synthesis. | [View Repository](https://github.com/Abhi21sar/Financial-AI-Assistant) |
-| **AntiGravity-MCP** | Advanced Model Context Protocol servers for deep AI model integration. | [View Repository](https://github.com/Abhi21sar/AntiGravity-MCP) |
-| **Amex DS Campus Challenge** | Award-winning data science solution for match winner prediction. | [View Repository](https://github.com/Abhi21sar/amex-ds-challenge-2024) |
+### 🛡️ Flagship Project: [IndicShield](https://github.com/Abhi21sar/IndicShield)
+**Automated Red-Teaming Framework for Indic LLMs**
+I built this framework to solve the "Safety Gap" in Indian language models. It probes models across 22 languages (including Maithili & Konkani) for jailbreaks, code-mixing evasion, and cultural hallucinations.
+- **Tech**: FastAPI, WebSockets, Ollama (Local Judge), Async Python, LLM.
 
 ---
 
-### 📊 GitHub Activity
+### 🛠️ Technical Arsenal
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi21sar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Abhi21sar's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi21sar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-</div>
+#### **🤖 Artificial Intelligence & NLP**
+- **LLM Evaluation**: Adversarial red-teaming (IndicShield), HarmBench methodology, LLM-as-Judge scoring.
+- **Agentic Systems**: Multi-agent orchestration, LangChain tool calling, autonomous financial assistants.
+- **Voice AI**: Multilingual voice synthesis and processing for the Indian market.
+- **Frameworks**: PyTorch, HuggingFace, OpenAI API, Sarvam AI, Ollama.
 
-<br/>
+#### **💻 Software Engineering & Systems**
+- **Backend**: FastAPI (High-performance Async), Node.js, WebSocket Streaming.
+- **Frontend**: Premium Vanilla JS/CSS (Glassmorphism, Micro-animations), Chart.js for data viz.
+- **DevOps & Cloud**: Docker (Architecture Simulators), Linux System Auditing, CI/CD Automation.
+- **Database**: PostgreSQL, Redis, JSONL big-data stores.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abhishek-gurjar-b51043205/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+---
+
+### 📂 Featured Ecosystems
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **IndicShield** | LLM Red-Teaming for 22 Indian Languages. | `Python` `FastAPI` `Ollama` |
+| **Real-time AI** | Streaming inference pipelines for sub-second latency. | `Asyncio` `WebSockets` |
+| **Finance Agent** | Autonomous multi-agent assistant with dynamic routing. | `LangChain` `ToolCalling` |
+| **LearnDocker v2** | Interactive simulator for network isolation & security. | `Docker` `Shell` `Web` |
+
+---
+
+### 🧠 How I Work
+- **Security First**: I don't just build models; I break them to make them safer.
+- **Premium Aesthetics**: I believe internal tools and dashboards should look as polished as consumer products.
+- **Performance Obsessed**: From async backend loops to optimized GGUF quantization.
+
+---
+
+### 📈 GitHub Ecosystem
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhi21sar&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi21sar&layout=compact&theme=tokyonight" width="45%" />
+</p>
+
+---
+
+### 📫 Connect & Collaborate
+- **LinkedIn**: [Your Profile Link]
+- **Email**: [Your Email]
+- **Portfolio**: [Your Website/IndicShield Dashboard]
+
+*"Turning complex data into actionable AI intelligence."*
